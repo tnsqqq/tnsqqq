@@ -65,32 +65,6 @@
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tnsqqq&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnsqqq&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=tnsqqq&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🌟 What I Believe
-
-> **"Great software isn't just written—it's designed, tested, and continuously improved."**
-
-I enjoy transforming ideas into scalable applications while continuously improving my skills and exploring modern technologies.
-
----
-
 # 🚀 Featured Projects
 
 - 🤖 **CraftMyFolio** — AI-powered portfolio builder using Gemini API.
