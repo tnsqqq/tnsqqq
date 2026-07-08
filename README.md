@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋, I'm Tanishq
 
-<!--
-**tnsqqq/tnsqqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full Stack Developer** passionate about building scalable web applications and solving real-world problems.
 
-Here are some ideas to get you started:
+### 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🔭 Building modern full-stack applications
+* 🌱 Continuously learning System Design and backend architecture
+* 💡 Interested in clean code, scalable systems, and performance optimization
+* 🤝 Open to internships and full-time opportunities
+* ⚡ I enjoy turning ideas into products
+
+### 🛠️ Tech Stack
+
+**Languages:** Java, Python, SQL, JavaScript
+
+**Frontend:** React
+
+**Backend:** Node.js, Express.js
+
+**Database:** MongoDB, SQL
+
+**Concepts:** REST APIs, Authentication, System Design, Database Design
+
+### 📫 Let's Connect
+
+Always open to collaborating on interesting projects and learning from the developer community.
