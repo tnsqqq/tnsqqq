@@ -1,166 +1,103 @@
 ```markdown
-<div align="center">
+# Hi there 👋, I'm Tanishq
 
-# 👋 Hi, I'm Tanishq
-
-### Full Stack Developer
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Scalable+Web+Applications;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
-
-<p>
-Building scalable web applications with modern technologies and continuously improving through real-world projects.
-</p>
-
-</div>
+💻 **Full Stack Developer** passionate about building scalable web applications, solving real-world problems, and continuously learning modern software engineering practices.
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-- 💻 Full Stack Developer passionate about building scalable and user-friendly applications.
-- 🌱 Currently exploring **System Design**, backend architecture, and performance optimization.
-- ⚡ Enjoy solving real-world problems with clean and maintainable code.
-- 🤝 Open to Internship and Full-Time Software Engineering opportunities.
-- 🎯 Goal: Become a world-class Software Engineer.
+- 🎓 Computer Science enthusiast with a strong interest in Full Stack Development.
+- 💻 Building responsive, scalable, and user-friendly web applications.
+- 🌱 Currently deep-diving into **System Design**, backend architecture, and scalable application development.
+- 🧠 Enjoy solving Data Structures & Algorithms problems to strengthen problem-solving skills.
+- ⚡ Passionate about writing clean, maintainable, and efficient code.
+- 🔍 Always curious to explore new technologies and best development practices.
+- 🤝 Open to **Internship** and **Full-Time** Software Engineering opportunities.
+- 🎯 Goal: Build impactful products that improve people's lives.
 
 ---
 
-# 💻 Tech Stack
+## 🛠️ Tech Stack
 
-## 🧠 Languages
+### 💻 Languages
+- Java
+- Python
+- JavaScript
+- SQL
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+### 🎨 Frontend
+- React.js
+- HTML5
+- CSS3
 
-## 🎨 Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-## ⚙️ Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-
-## 🗄️ Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-## 🛠 Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-## 📚 Concepts
-
+### ⚙️ Backend
+- Node.js
+- Express.js
 - REST APIs
-- Authentication (JWT)
+
+### 🗄️ Databases
+- MongoDB
+- MySQL
+
+### 🧩 Core Concepts
+- Object-Oriented Programming (OOP)
 - Database Design
+- Authentication & Authorization
 - System Design
 - Data Structures & Algorithms
+- MVC Architecture
+- Responsive Web Design
+
+### 🛠️ Developer Tools
+- Git
+- GitHub
+- VS Code
+- Postman
 
 ---
 
-# 📊 GitHub Analytics
+## 📚 Currently Learning
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
+- Advanced React Patterns
+- Backend Performance Optimization
+- Microservices Architecture
+- Advanced SQL & Database Optimization
+- Scalable System Design
+- Cloud Fundamentals
 
 ---
 
-# 🐍 Contribution Graph
+## 🌟 What I Believe
 
-<p align="center">
+> "Great software is built with curiosity, consistency, and clean code."
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-</p>
-
-<!--
-
-SETUP FOR SNAKE ANIMATION
-
-1. Create:
-.github/workflows/snake.yml
-
-2. Use Platane's GitHub Action:
-https://github.com/Platane/snk
-
-3. Configure the workflow to generate:
-
-output/github-contribution-grid-snake.svg
-
-and
-
-output/github-contribution-grid-snake-dark.svg
-
-4. Commit and enable GitHub Actions.
-
--->
+I enjoy transforming ideas into practical applications while continuously improving my development skills and staying updated with modern technologies.
 
 ---
 
-# 📈 Activity Graph
+## 📌 Featured Projects
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</p>
+- 🚀 **CraftMyFolio** — AI-powered portfolio builder using React, Node.js, Express.js, MongoDB, and Gemini API.
+- 🔗 **URL Shortener** — Built a scalable URL shortening service with analytics using Node.js, Express.js, and MongoDB.
+- 📊 More projects coming soon...
 
 ---
 
-# 🌐 Connect with Me
+## 📈 GitHub Goals
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://portfolio-link.com">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://twitter.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-</p>
+- 🚀 Build impactful full-stack applications
+- 🌍 Contribute to open-source projects
+- 📚 Learn something new every day
+- 💡 Share knowledge with the developer community
 
 ---
 
-<div align="center">
+## 📫 Let's Connect
 
-### ⭐ Thanks for visiting my profile!
+I'm always open to collaborating on exciting projects, discussing new ideas, or exploring internship and full-time opportunities.
 
-*"Code. Learn. Build. Repeat."*
-
-</div>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue" alt="Profile Views"/>
-
-</p>
+⭐ **Thanks for visiting my profile! Happy Coding!** 🚀
 ```
+
+This style is clean, recruiter-friendly, and ideal for a fresher applying to internships or software engineering roles.
