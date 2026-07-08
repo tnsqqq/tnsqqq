@@ -1,16 +1,3 @@
-This is already good, but it still looks like a typical README. Top GitHub profiles use **centered cards, consistent spacing, emojis, icons, and stats** to make the page feel polished. Here's how I'd improve the structure:
-
-* Center the hero section completely.
-* Add a short subtitle under your name.
-* Use badges for your role and interests.
-* Replace the old GIF with a modern coding GIF.
-* Arrange the tech stack in a clean grid instead of separate sections.
-* Add GitHub stats directly below the tech stack.
-* Keep sections visually balanced.
-
-Here's a refined version of the beginning of your README:
-
-````markdown
 <div align="center">
 
 # 👋 Hey, I'm <span style="color:#58A6FF;">Tanishq</span>
@@ -119,12 +106,3 @@ class Tanishq {
 <img src="https://streak-stats.demolab.com?user=tnsqqq&theme=tokyonight&hide_border=true"/>
 
 </p>
-````
-
-### A couple of notes
-
-* The `<span style="...">` color won't work on GitHub because GitHub sanitizes most inline CSS. If you want a colored header, use a **banner image** instead.
-* The badges, typing animation, and stat cards all render correctly on GitHub.
-* The Java code block gives the "About Me" section a fun, developer-centric feel without looking cluttered.
-
-This layout is much closer to the style used by polished GitHub profiles while staying clean and recruiter-friendly.
