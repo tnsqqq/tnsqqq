@@ -1,14 +1,34 @@
+This is already good, but it still looks like a typical README. Top GitHub profiles use **centered cards, consistent spacing, emojis, icons, and stats** to make the page feel polished. Here's how I'd improve the structure:
+
+* Center the hero section completely.
+* Add a short subtitle under your name.
+* Use badges for your role and interests.
+* Replace the old GIF with a modern coding GIF.
+* Arrange the tech stack in a clean grid instead of separate sections.
+* Add GitHub stats directly below the tech stack.
+* Keep sections visually balanced.
+
+Here's a refined version of the beginning of your README:
+
+````markdown
 <div align="center">
 
-# 👋 Hey, I'm Tanishq
+# 👋 Hey, I'm <span style="color:#58A6FF;">Tanishq</span>
 
-### 💻 Full Stack Developer
+### 🚀 Full Stack Developer | Java • React • Node.js • MongoDB
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Scalable+Web+Applications;Turning+Ideas+into+Products;Learning+System+Design+Every+Day" />
+<p>
+Passionate about building scalable web applications, solving real-world problems,<br>
+and continuously learning modern software engineering.
+</p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Building+Scalable+Web+Applications;Turning+Ideas+Into+Products;Learning+System+Design+Every+Day)](https://git.io/typing-svg)
 
 <br>
 
-<img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Full--Time-success?style=for-the-badge"/>
+![](https://img.shields.io/badge/Open%20to-Internships%20%26%20Full--Time-success?style=for-the-badge)
+![](https://img.shields.io/badge/Location-India-blue?style=for-the-badge)
+![](https://img.shields.io/badge/Loves-Clean%20Code-orange?style=for-the-badge)
 
 </div>
 
@@ -16,15 +36,40 @@
 
 # 🚀 About Me
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" width="330" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
 
-- 🎓 Computer Science enthusiast passionate about Full Stack Development.
-- 💻 Building modern, scalable, and user-friendly web applications.
-- 🌱 Currently learning **System Design**, backend architecture, and scalable software development.
-- 🧠 Solving Data Structures & Algorithms to strengthen problem-solving skills.
-- ⚡ Love writing clean, maintainable, and efficient code.
-- 🚀 Turning ideas into real-world products.
-- 🤝 Open to **Internship** and **Full-Time** Software Engineering opportunities.
+```java
+class Tanishq {
+
+    String role = "Full Stack Developer";
+
+    String[] languages = {
+        "Java",
+        "Python",
+        "JavaScript",
+        "SQL"
+    };
+
+    String[] interests = {
+        "React",
+        "Node.js",
+        "System Design",
+        "Backend Development"
+    };
+
+    String currentFocus =
+        "Building scalable web applications";
+
+    String motto =
+        "Code • Learn • Build • Repeat";
+}
+```
+
+- 💻 Building modern and scalable web applications.
+- 🌱 Learning **System Design** & backend architecture.
+- ⚡ Turning ideas into real-world products.
+- 🧠 Improving problem-solving through DSA.
+- 🤝 Open to **Internships** & **Full-Time Opportunities**.
 
 <br clear="right"/>
 
@@ -32,77 +77,54 @@
 
 # 🛠️ Tech Stack
 
-### 💻 Languages
+<div align="center">
 
-<p>
+### Languages
+
 <img src="https://skillicons.dev/icons?i=java,python,javascript" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
 
-### 🎨 Frontend
+### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,html,css"/>
 
-### ⚙️ Backend
+### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 
-### 🗄️ Database
+### Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 
-### 🛠️ Tools
+### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+
+</div>
 
 ---
 
-# 🚀 Featured Projects
-
-- 🤖 **CraftMyFolio** — AI-powered portfolio builder using Gemini API.
-- 🔗 **URL Shortener** — URL shortening service with analytics using Node.js & MongoDB.
-- 📈 More exciting projects coming soon...
-
----
-
-# 🎯 2026 Goals
-
-- 🚀 Build production-ready full-stack applications.
-- 🌍 Contribute to Open Source.
-- 📚 Master System Design.
-- ☁️ Learn Cloud & DevOps.
-- 💼 Land a Software Engineering role.
-
----
-
-# 📫 Connect With Me
+# 📊 GitHub Stats
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/tanishqbaliyan/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tnsqqq&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<a href="mailto:tnsqqqbaliyan@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnsqqq&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
----
+<p align="center">
 
-<div align="center">
+<img src="https://streak-stats.demolab.com?user=tnsqqq&theme=tokyonight&hide_border=true"/>
 
-### ⭐ Thanks for visiting my profile!
+</p>
+````
 
-<img src="https://komarev.com/ghpvc/?username=tnsqqq&style=for-the-badge"/>
+### A couple of notes
 
-</div>
+* The `<span style="...">` color won't work on GitHub because GitHub sanitizes most inline CSS. If you want a colored header, use a **banner image** instead.
+* The badges, typing animation, and stat cards all render correctly on GitHub.
+* The Java code block gives the "About Me" section a fun, developer-centric feel without looking cluttered.
+
+This layout is much closer to the style used by polished GitHub profiles while staying clean and recruiter-friendly.
