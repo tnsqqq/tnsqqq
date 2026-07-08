@@ -1,103 +1,134 @@
-```markdown
-# Hi there 👋, I'm Tanishq
+<div align="center">
 
-💻 **Full Stack Developer** passionate about building scalable web applications, solving real-world problems, and continuously learning modern software engineering practices.
+# 👋 Hey, I'm Tanishq
+
+### 💻 Full Stack Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Scalable+Web+Applications;Turning+Ideas+into+Products;Learning+System+Design+Every+Day" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Full--Time-success?style=for-the-badge"/>
+
+</div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🎓 Computer Science enthusiast with a strong interest in Full Stack Development.
-- 💻 Building responsive, scalable, and user-friendly web applications.
-- 🌱 Currently deep-diving into **System Design**, backend architecture, and scalable application development.
-- 🧠 Enjoy solving Data Structures & Algorithms problems to strengthen problem-solving skills.
-- ⚡ Passionate about writing clean, maintainable, and efficient code.
-- 🔍 Always curious to explore new technologies and best development practices.
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+- 🎓 Computer Science enthusiast passionate about Full Stack Development.
+- 💻 Building modern, scalable, and user-friendly web applications.
+- 🌱 Currently learning **System Design**, backend architecture, and scalable software development.
+- 🧠 Solving Data Structures & Algorithms to strengthen problem-solving skills.
+- ⚡ Love writing clean, maintainable, and efficient code.
+- 🚀 Turning ideas into real-world products.
 - 🤝 Open to **Internship** and **Full-Time** Software Engineering opportunities.
-- 🎯 Goal: Build impactful products that improve people's lives.
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### 💻 Languages
-- Java
-- Python
-- JavaScript
-- SQL
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
 ### 🎨 Frontend
-- React.js
-- HTML5
-- CSS3
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
 
 ### ⚙️ Backend
-- Node.js
-- Express.js
-- REST APIs
 
-### 🗄️ Databases
-- MongoDB
-- MySQL
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-### 🧩 Core Concepts
-- Object-Oriented Programming (OOP)
-- Database Design
-- Authentication & Authorization
-- System Design
-- Data Structures & Algorithms
-- MVC Architecture
-- Responsive Web Design
+### 🗄️ Database
 
-### 🛠️ Developer Tools
-- Git
-- GitHub
-- VS Code
-- Postman
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
-## 📚 Currently Learning
+# 📈 GitHub Stats
 
-- Advanced React Patterns
-- Backend Performance Optimization
-- Microservices Architecture
-- Advanced SQL & Database Optimization
-- Scalable System Design
-- Cloud Fundamentals
+<p align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tnsqqq&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-## 🌟 What I Believe
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnsqqq&layout=compact&theme=tokyonight&hide_border=true"/>
 
-> "Great software is built with curiosity, consistency, and clean code."
+</p>
 
-I enjoy transforming ideas into practical applications while continuously improving my development skills and staying updated with modern technologies.
+<p align="center">
 
----
+<img src="https://streak-stats.demolab.com?user=tnsqqq&theme=tokyonight&hide_border=true"/>
 
-## 📌 Featured Projects
-
-- 🚀 **CraftMyFolio** — AI-powered portfolio builder using React, Node.js, Express.js, MongoDB, and Gemini API.
-- 🔗 **URL Shortener** — Built a scalable URL shortening service with analytics using Node.js, Express.js, and MongoDB.
-- 📊 More projects coming soon...
+</p>
 
 ---
 
-## 📈 GitHub Goals
+# 🌟 What I Believe
 
-- 🚀 Build impactful full-stack applications
-- 🌍 Contribute to open-source projects
-- 📚 Learn something new every day
-- 💡 Share knowledge with the developer community
+> **"Great software isn't just written—it's designed, tested, and continuously improved."**
+
+I enjoy transforming ideas into scalable applications while continuously improving my skills and exploring modern technologies.
 
 ---
 
-## 📫 Let's Connect
+# 🚀 Featured Projects
 
-I'm always open to collaborating on exciting projects, discussing new ideas, or exploring internship and full-time opportunities.
+- 🤖 **CraftMyFolio** — AI-powered portfolio builder using Gemini API.
+- 🔗 **URL Shortener** — URL shortening service with analytics using Node.js & MongoDB.
+- 📈 More exciting projects coming soon...
 
-⭐ **Thanks for visiting my profile! Happy Coding!** 🚀
-```
+---
 
-This style is clean, recruiter-friendly, and ideal for a fresher applying to internships or software engineering roles.
+# 🎯 2026 Goals
+
+- 🚀 Build production-ready full-stack applications.
+- 🌍 Contribute to Open Source.
+- 📚 Master System Design.
+- ☁️ Learn Cloud & DevOps.
+- 💼 Land a Software Engineering role.
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/YOUR-LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOURMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://komarev.com/ghpvc/?username=tnsqqq&style=for-the-badge"/>
+
+</div>
