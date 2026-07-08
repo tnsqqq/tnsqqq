@@ -1,32 +1,27 @@
 <div align="center">
 
-# 👋 Hey, I'm <span style="color:#58A6FF;">Tanishq</span>
+# 👋 Hi, I'm Tanishq
 
-### 🚀 Full Stack Developer | Java • React • Node.js • MongoDB
+### 🚀 Full Stack Developer
 
-<p>
-Passionate about building scalable web applications, solving real-world problems,<br>
-and continuously learning modern software engineering.
-</p>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Building+Scalable+Web+Applications;Turning+Ideas+Into+Products;Learning+System+Design+Every+Day)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Scalable+Web+Applications;Java+%7C+React+%7C+Node.js+Developer;Turning+Ideas+Into+Products;Always+Learning+System+Design" />
 
 <br>
 
-![](https://img.shields.io/badge/Open%20to-Internships%20%26%20Full--Time-success?style=for-the-badge)
-![](https://img.shields.io/badge/Location-India-blue?style=for-the-badge)
-![](https://img.shields.io/badge/Loves-Clean%20Code-orange?style=for-the-badge)
+<img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Full--Time-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Location-India-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Loves-Clean%20Code-orange?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
-<img align="right" width="330" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
+<img align="right" width="320" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
 
 ```java
-class Tanishq {
+public class Tanishq {
 
     String role = "Full Stack Developer";
 
@@ -37,53 +32,58 @@ class Tanishq {
         "SQL"
     };
 
-    String[] interests = {
-        "React",
+    String[] backend = {
         "Node.js",
-        "System Design",
-        "Backend Development"
+        "Express.js",
+        "MongoDB",
+        "MySQL"
     };
 
-    String currentFocus =
-        "Building scalable web applications";
+    String[] interests = {
+        "System Design",
+        "Backend Development",
+        "Scalable Applications",
+        "Problem Solving"
+    };
 
-    String motto =
-        "Code • Learn • Build • Repeat";
+    String currentFocus = "Building modern web applications";
+
+    String motto = "Code • Learn • Build • Repeat";
 }
 ```
 
 - 💻 Building modern and scalable web applications.
-- 🌱 Learning **System Design** & backend architecture.
-- ⚡ Turning ideas into real-world products.
+- 🌱 Currently learning **System Design** & Backend Architecture.
+- ⚡ Passionate about writing clean, maintainable code.
 - 🧠 Improving problem-solving through DSA.
+- 🚀 Turning ideas into real-world products.
 - 🤝 Open to **Internships** & **Full-Time Opportunities**.
 
 <br clear="right"/>
 
 ---
 
-# 🛠️ Tech Stack
+# 🚀 Tech Stack
 
 <div align="center">
 
-### Languages
+### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,mysql"/>
 
-### Frontend
+### 🎨 Frontend
 
 <img src="https://skillicons.dev/icons?i=react,html,css"/>
 
-### Backend
+### ⚙️ Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
 
-### Database
+### 🗄️ Database
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 
-### Tools
+### 🛠️ Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 
@@ -91,18 +91,118 @@ class Tanishq {
 
 ---
 
-# 📊 GitHub Stats
+# 🌟 Featured Projects
 
-<!-- <p align="center">
+### 🤖 CraftMyFolio
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tnsqqq&show_icons=true&theme=tokyonight&hide_border=true"/>
+AI-powered portfolio builder using **React, Node.js, Express.js, MongoDB & Gemini API**.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnsqqq&layout=compact&theme=tokyonight&hide_border=true"/>
+### 🔗 URL Shortener
 
-</p> -->
+Scalable URL shortening service with analytics built using **Node.js, Express.js & MongoDB**.
+
+> 🚀 More exciting projects coming soon...
+
+---
+
+# 📚 Currently Learning
+
+- ⚙️ System Design
+- ☁️ Cloud Fundamentals
+- 📦 Backend Performance Optimization
+- 🏗️ Scalable Architecture
+- 🧩 Advanced SQL
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Build production-ready Full Stack applications.
+- 🌍 Contribute to Open Source.
+- ☁️ Learn AWS & Cloud Deployment.
+- 📚 Master System Design.
+- 💼 Land a Software Engineering role.
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=tnsqqq&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tnsqqq&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
 
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=tnsqqq&theme=tokyonight&hide_border=true"/>
 
 </p>
+
+---
+
+# 🐍 Contribution Snake
+
+> Uncomment this after setting up the GitHub Action.
+
+```md
+<!--
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/tnsqqq/tnsqqq/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+-->
+```
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/tanishqbaliyan">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:tnsqqqbaliyan@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/tnsqqq">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## 💭 Developer Philosophy
+
+> **"Every expert was once a beginner. Consistency beats talent when talent doesn't work consistently."**
+
+⭐ If you like my work, consider giving a ⭐ to my repositories!
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=tnsqqq&style=for-the-badge&color=blue"/>
+
+</div>
