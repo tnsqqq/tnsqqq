@@ -1,24 +1,66 @@
-class Tanishq {
+public class Tanishq {
 
-    String role = "Full Stack Developer";
+    private final String role = "Full Stack Developer";
 
-    String[] languages = {
+    private final String[] skills = {
         "Java",
         "Python",
         "JavaScript",
-        "SQL"
-    };
-
-    String[] interests = {
         "React",
         "Node.js",
-        "System Design",
-        "Backend Development"
+        "Express.js",
+        "MongoDB",
+        "MySQL"
     };
 
-    String currentFocus =
-        "Building scalable web applications";
+    private final String[] interests = {
+        "System Design",
+        "Scalable Architecture",
+        "Backend Engineering",
+        "Clean Code",
+        "Problem Solving"
+    };
 
-    String motto =
-        "Code • Learn • Build • Repeat";
+    private final String currentlyBuilding =
+        "Modern Full Stack Applications";
+
+    private final String currentlyLearning =
+        "System Design, Cloud & Performance Optimization";
+
+    private final String availableFor =
+        "Internships & Full-Time Opportunities";
+
+    // Featured Projects
+
+    private final Project craftMyFolio = new Project(
+        "CraftMyFolio",
+        "AI-powered Portfolio Builder",
+        "React • Node.js • Express.js • MongoDB • Gemini API"
+    );
+
+    private final Project urlShortener = new Project(
+        "URL Shortener",
+        "Scalable URL shortening service with analytics",
+        "Node.js • Express.js • MongoDB"
+    );
+
+    private final Project[] featuredProjects = {
+        craftMyFolio,
+        urlShortener
+    };
+
+    public void code() {
+        while (true) {
+            learn();
+            build();
+            improve();
+            repeat();
+        }
+    }
+
+    record Project(
+        String name,
+        String description,
+        String techStack
+    ) {}
 }
